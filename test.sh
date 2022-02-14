@@ -1,1 +1,6 @@
-echo BashExample 
+#!/bin/bash
+set -ex
+
+
+echo "BashExample"
+
